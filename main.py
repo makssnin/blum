@@ -104,3 +104,6 @@ while True:
         first_click_time = time.time()  # Обновляем время первого клика
 
 print('[✅] | остановлено.')
+
+
+
